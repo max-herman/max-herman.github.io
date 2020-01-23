@@ -26,13 +26,12 @@ body {
 .game {
   table-layout: fixed;
   float: left;
-  margin-top: 10px;
   background-color: #ddd;
   border: 2px solid;
   border-color:#7b7b7b #7b7b7b #7b7b7b #7b7b7b;
   cursor: default;
-  width: 600px;
-  height: 600px;
+  width: 300px;
+  height: 300px;
 }
 .gwt-MenuBar-horizontal {
   border: 4px solid;
